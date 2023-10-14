@@ -1,0 +1,27 @@
+h1{
+    color:black;
+    position:static;
+}
+
+
+span{
+background: blanchedalmond;
+
+
+}
+
+#box1{
+    padding: 60px;
+    border:  red solid 30px;
+    height: 30;
+}
+
+#box2{
+    padding: 60px;
+    border: blue solid 30px;
+}
+
+#box3{
+    padding: 60px;
+    border: yellow solid 30px;
+}
